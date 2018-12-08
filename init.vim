@@ -197,7 +197,6 @@ if !exists('g:not_finish_vimplug')
   set termguicolors
   colorscheme molokai
   set background=dark
-  let g:gruvbox_contrast_dark='hard'
   
 endif
 
